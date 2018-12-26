@@ -1,0 +1,1944 @@
+---
+meta:
+  data_version: 0.9
+  created: 2011-05-06
+  revision: 2
+info:
+  city: Bangalore
+  competition: IPL
+  dates:
+    - 2008-04-18
+  gender: male
+  match_type: T20
+  outcome:
+    by:
+      runs: 140
+    winner: Kolkata Knight Riders
+  overs: 20
+  player_of_match:
+    - BB McCullum
+  teams:
+    - Royal Challengers Bangalore
+    - Kolkata Knight Riders
+  toss:
+    decision: field
+    winner: Royal Challengers Bangalore
+  umpires:
+    - Asad Rauf
+    - RE Koertzen
+  venue: M Chinnaswamy Stadium
+innings:
+  - 1st innings:
+      team: Kolkata Knight Riders
+      deliveries:
+        - 0.1:
+            batsman: SC Ganguly
+            bowler: P Kumar
+            extras:
+              legbyes: 1
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: BB McCullum
+            bowler: P Kumar
+            extras:
+              wides: 1
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.4:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: BB McCullum
+            bowler: P Kumar
+            extras:
+              legbyes: 1
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.1:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: SC Ganguly
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: SC Ganguly
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.4:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: SC Ganguly
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 1.5:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: SC Ganguly
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: SC Ganguly
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: SC Ganguly
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: SC Ganguly
+            bowler: P Kumar
+            extras:
+              legbyes: 1
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.4:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: SC Ganguly
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.5:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: SC Ganguly
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: SC Ganguly
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            extras:
+              wides: 5
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 3.2:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: SC Ganguly
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.3:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            extras:
+              legbyes: 1
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.4:
+            batsman: SC Ganguly
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: SC Ganguly
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: SC Ganguly
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.7:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: SC Ganguly
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.1:
+            batsman: SC Ganguly
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.2:
+            batsman: SC Ganguly
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: SC Ganguly
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: SC Ganguly
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: SC Ganguly
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: SC Ganguly
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: SC Ganguly
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: SC Ganguly
+            bowler: Z Khan
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JH Kallis
+              kind: caught
+              player_out: SC Ganguly
+        - 5.3:
+            batsman: RT Ponting
+            bowler: Z Khan
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: RT Ponting
+            bowler: Z Khan
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: RT Ponting
+            bowler: Z Khan
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: RT Ponting
+            bowler: Z Khan
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: RT Ponting
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: RT Ponting
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.5:
+            batsman: RT Ponting
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: RT Ponting
+            bowler: Z Khan
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: RT Ponting
+            bowler: Z Khan
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: RT Ponting
+            bowler: JH Kallis
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: RT Ponting
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.1:
+            batsman: RT Ponting
+            bowler: SB Joshi
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: RT Ponting
+            bowler: SB Joshi
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: RT Ponting
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.6:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: RT Ponting
+            bowler: JH Kallis
+            non_striker: BB McCullum
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.3:
+            batsman: RT Ponting
+            bowler: JH Kallis
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: RT Ponting
+            bowler: JH Kallis
+            non_striker: BB McCullum
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 10.5:
+            batsman: RT Ponting
+            bowler: JH Kallis
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: RT Ponting
+            bowler: JH Kallis
+            extras:
+              byes: 4
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 11.1:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: RT Ponting
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.3:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: RT Ponting
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.4:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: RT Ponting
+            bowler: SB Joshi
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: RT Ponting
+            bowler: SB Joshi
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: RT Ponting
+            bowler: JH Kallis
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - P Kumar
+              kind: caught
+              player_out: RT Ponting
+        - 12.2:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: DJ Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.3:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: DJ Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: DJ Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.5:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            extras:
+              wides: 1
+            non_striker: DJ Hussey
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.6:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: DJ Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.7:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: DJ Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: DJ Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: DJ Hussey
+            bowler: SB Joshi
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: DJ Hussey
+            bowler: SB Joshi
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: DJ Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: DJ Hussey
+            bowler: SB Joshi
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: BB McCullum
+            bowler: SB Joshi
+            non_striker: DJ Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.1:
+            batsman: DJ Hussey
+            bowler: CL White
+            non_striker: BB McCullum
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.2:
+            batsman: DJ Hussey
+            bowler: CL White
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: BB McCullum
+            bowler: CL White
+            non_striker: DJ Hussey
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.4:
+            batsman: BB McCullum
+            bowler: CL White
+            non_striker: DJ Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.5:
+            batsman: BB McCullum
+            bowler: CL White
+            extras:
+              wides: 2
+            non_striker: DJ Hussey
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 14.6:
+            batsman: DJ Hussey
+            bowler: CL White
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.7:
+            batsman: BB McCullum
+            bowler: CL White
+            non_striker: DJ Hussey
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.1:
+            batsman: DJ Hussey
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: DJ Hussey
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: DJ Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.4:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: DJ Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: DJ Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: DJ Hussey
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: DJ Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: DJ Hussey
+            bowler: Z Khan
+            non_striker: BB McCullum
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.3:
+            batsman: DJ Hussey
+            bowler: Z Khan
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: DJ Hussey
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.5:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: DJ Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.6:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: DJ Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.1:
+            batsman: DJ Hussey
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CL White
+              kind: caught
+              player_out: DJ Hussey
+        - 17.2:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: Mohammad Hafeez
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: Mohammad Hafeez
+            bowler: AA Noffke
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.6:
+            batsman: BB McCullum
+            bowler: AA Noffke
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 18.2:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 18.4:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.5:
+            batsman: BB McCullum
+            bowler: JH Kallis
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: Mohammad Hafeez
+            bowler: JH Kallis
+            non_striker: BB McCullum
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.1:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.2:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.3:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.4:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.6:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+  - 2nd innings:
+      team: Royal Challengers Bangalore
+      deliveries:
+        - 0.1:
+            batsman: R Dravid
+            bowler: AB Dinda
+            non_striker: W Jaffer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            extras:
+              wides: 1
+            non_striker: R Dravid
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.3:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            non_striker: R Dravid
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            non_striker: R Dravid
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: R Dravid
+            bowler: AB Dinda
+            non_striker: W Jaffer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            non_striker: R Dravid
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            non_striker: R Dravid
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: R Dravid
+            bowler: I Sharma
+            non_striker: W Jaffer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: R Dravid
+        - 1.2:
+            batsman: V Kohli
+            bowler: I Sharma
+            non_striker: W Jaffer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: V Kohli
+            bowler: I Sharma
+            extras:
+              legbyes: 4
+            non_striker: W Jaffer
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 1.4:
+            batsman: V Kohli
+            bowler: I Sharma
+            non_striker: W Jaffer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: W Jaffer
+            bowler: I Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: W Jaffer
+            bowler: I Sharma
+            non_striker: V Kohli
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: V Kohli
+            bowler: AB Dinda
+            non_striker: W Jaffer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: V Kohli
+            bowler: AB Dinda
+            non_striker: W Jaffer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: V Kohli
+        - 2.3:
+            batsman: JH Kallis
+            bowler: AB Dinda
+            non_striker: W Jaffer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            extras:
+              wides: 1
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.6:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.7:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: W Jaffer
+            bowler: I Sharma
+            non_striker: JH Kallis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.2:
+            batsman: W Jaffer
+            bowler: I Sharma
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: JH Kallis
+            bowler: I Sharma
+            non_striker: W Jaffer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: JH Kallis
+            bowler: I Sharma
+            extras:
+              legbyes: 1
+            non_striker: W Jaffer
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.5:
+            batsman: W Jaffer
+            bowler: I Sharma
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: W Jaffer
+            bowler: I Sharma
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: JH Kallis
+            bowler: AB Agarkar
+            non_striker: W Jaffer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: W Jaffer
+            bowler: AB Agarkar
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: JH Kallis
+            bowler: AB Agarkar
+            non_striker: W Jaffer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: JH Kallis
+            bowler: AB Agarkar
+            non_striker: W Jaffer
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.5:
+            batsman: JH Kallis
+            bowler: AB Agarkar
+            non_striker: W Jaffer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - M Kartik
+              kind: caught
+              player_out: JH Kallis
+        - 4.6:
+            batsman: CL White
+            bowler: AB Agarkar
+            non_striker: W Jaffer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: W Jaffer
+            bowler: AB Dinda
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RT Ponting
+              kind: caught
+              player_out: W Jaffer
+        - 5.3:
+            batsman: MV Boucher
+            bowler: AB Dinda
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: MV Boucher
+            bowler: AB Dinda
+            non_striker: CL White
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: CL White
+            bowler: AB Dinda
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: MV Boucher
+            bowler: AB Dinda
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: CL White
+            bowler: AB Agarkar
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: CL White
+            bowler: AB Agarkar
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: CL White
+            bowler: AB Agarkar
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: MV Boucher
+            bowler: AB Agarkar
+            extras:
+              wides: 1
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.5:
+            batsman: MV Boucher
+            bowler: AB Agarkar
+            extras:
+              wides: 1
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.6:
+            batsman: MV Boucher
+            bowler: AB Agarkar
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.7:
+            batsman: MV Boucher
+            bowler: AB Agarkar
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.8:
+            batsman: MV Boucher
+            bowler: AB Agarkar
+            non_striker: CL White
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.1:
+            batsman: CL White
+            bowler: SC Ganguly
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: MV Boucher
+            bowler: SC Ganguly
+            extras:
+              legbyes: 1
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.3:
+            batsman: CL White
+            bowler: SC Ganguly
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: MV Boucher
+            bowler: SC Ganguly
+            non_striker: CL White
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.5:
+            batsman: MV Boucher
+            bowler: SC Ganguly
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - M Kartik
+              kind: caught
+              player_out: MV Boucher
+        - 7.6:
+            batsman: CL White
+            bowler: SC Ganguly
+            non_striker: B Akhil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: B Akhil
+            bowler: AB Agarkar
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: B Akhil
+            bowler: AB Agarkar
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RT Ponting
+              kind: caught
+              player_out: B Akhil
+        - 8.3:
+            batsman: AA Noffke
+            bowler: AB Agarkar
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: AA Noffke
+            bowler: AB Agarkar
+            extras:
+              wides: 1
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.5:
+            batsman: AA Noffke
+            bowler: AB Agarkar
+            extras:
+              wides: 1
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.6:
+            batsman: AA Noffke
+            bowler: AB Agarkar
+            non_striker: CL White
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.7:
+            batsman: CL White
+            bowler: AB Agarkar
+            non_striker: AA Noffke
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.8:
+            batsman: CL White
+            bowler: AB Agarkar
+            non_striker: AA Noffke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - WP Saha
+              kind: caught
+              player_out: CL White
+        - 9.1:
+            batsman: AA Noffke
+            bowler: SC Ganguly
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: P Kumar
+            bowler: SC Ganguly
+            non_striker: AA Noffke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: P Kumar
+            bowler: SC Ganguly
+            non_striker: AA Noffke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: P Kumar
+            bowler: SC Ganguly
+            extras:
+              wides: 1
+            non_striker: AA Noffke
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.5:
+            batsman: P Kumar
+            bowler: SC Ganguly
+            extras:
+              legbyes: 1
+            non_striker: AA Noffke
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.6:
+            batsman: AA Noffke
+            bowler: SC Ganguly
+            non_striker: P Kumar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.7:
+            batsman: AA Noffke
+            bowler: SC Ganguly
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: AA Noffke
+            bowler: AB Agarkar
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: AA Noffke
+            bowler: AB Agarkar
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: AA Noffke
+            bowler: AB Agarkar
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: AA Noffke
+            bowler: AB Agarkar
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.5:
+            batsman: P Kumar
+            bowler: AB Agarkar
+            non_striker: AA Noffke
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.6:
+            batsman: P Kumar
+            bowler: AB Agarkar
+            non_striker: AA Noffke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: AA Noffke
+            bowler: SC Ganguly
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+            wicket:
+              fielders:
+                - AB Agarkar
+                - WP Saha
+              kind: run out
+              player_out: AA Noffke
+        - 11.2:
+            batsman: Z Khan
+            bowler: SC Ganguly
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: Z Khan
+            bowler: SC Ganguly
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: Z Khan
+            bowler: SC Ganguly
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: P Kumar
+            bowler: SC Ganguly
+            non_striker: Z Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: P Kumar
+            bowler: SC Ganguly
+            non_striker: Z Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: P Kumar
+            bowler: LR Shukla
+            non_striker: Z Khan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.2:
+            batsman: P Kumar
+            bowler: LR Shukla
+            extras:
+              wides: 2
+            non_striker: Z Khan
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 12.3:
+            batsman: Z Khan
+            bowler: LR Shukla
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: P Kumar
+            bowler: LR Shukla
+            non_striker: Z Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: Z Khan
+            bowler: LR Shukla
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: Z Khan
+            bowler: LR Shukla
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.7:
+            batsman: Z Khan
+            bowler: LR Shukla
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: Z Khan
+            bowler: SC Ganguly
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Z Khan
+        - 13.2:
+            batsman: SB Joshi
+            bowler: SC Ganguly
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: P Kumar
+            bowler: SC Ganguly
+            non_striker: SB Joshi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: P Kumar
+            bowler: SC Ganguly
+            non_striker: SB Joshi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: P Kumar
+            bowler: SC Ganguly
+            non_striker: SB Joshi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: P Kumar
+            bowler: SC Ganguly
+            non_striker: SB Joshi
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.1:
+            batsman: SB Joshi
+            bowler: I Sharma
+            extras:
+              wides: 1
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.2:
+            batsman: SB Joshi
+            bowler: I Sharma
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: SB Joshi
+            bowler: I Sharma
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: SB Joshi
+            bowler: I Sharma
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: P Kumar
+            bowler: I Sharma
+            extras:
+              legbyes: 1
+            non_striker: SB Joshi
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.6:
+            batsman: SB Joshi
+            bowler: I Sharma
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.7:
+            batsman: P Kumar
+            bowler: I Sharma
+            non_striker: SB Joshi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: SB Joshi
+            bowler: LR Shukla
+            extras:
+              wides: 1
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.2:
+            batsman: SB Joshi
+            bowler: LR Shukla
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BB McCullum
+              kind: caught
+              player_out: SB Joshi
