@@ -1,5 +1,12 @@
+<p align="center">
+  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20180406174744/content/common/images/26-weeks-of-data-science-banner.jpg" width="700" title="26-weeks-of-data-science">
+</p>
+
+<br/><br/>
+
+
 # Numpy Basics & Object Oriented Programming
-![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
+
 
 NumPy is not just more efficient; it is also more convenient. NumPy's arrays are more compact than Python lists -- a list of lists as you describe, in Python, would take at least 20 MB or so, while a NumPy 3D array with single-precision floats in the cells would fit in 4 MB.
 
