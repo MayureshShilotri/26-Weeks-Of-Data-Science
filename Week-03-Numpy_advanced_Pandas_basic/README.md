@@ -3,7 +3,7 @@
 </p>
 
 <br/><br/>
-***
+
 # Numpy Advanced & Pandas- An Introduction
 
 ## NumPy Advanced
