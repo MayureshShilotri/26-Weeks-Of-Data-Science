@@ -4,7 +4,10 @@
 
 <br/><br/>
 
-# Data Manipulation with pandas DataFrame 
+# Pandas - Getting Deeper
+***
+
+## Data Manipulation with pandas DataFrame 
 Many real-world data sets contain strings, integers, time-stamps and unstructured data. How do you store data like this so that you can manipulate it and easily retrieve important information? The answer is in a pandas DataFrame!
 
 ## Why complete this?
