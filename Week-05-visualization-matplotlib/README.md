@@ -1,7 +1,15 @@
-# Plot with Pandas
-![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
+<p align="center">
+  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20180406174744/content/common/images/26-weeks-of-data-science-banner.jpg" width="700" title="26-weeks-of-data-science">
+</p>
 
-matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. Get rolling with matplotlib!  
+<br/><br/>
+
+
+
+# Plot with Pandas
+
+
+Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. Get rolling with matplotlib!  
 
 ## Why complete this?
 Data visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns.
