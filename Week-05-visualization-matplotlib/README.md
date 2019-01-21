@@ -9,10 +9,10 @@
 # Plot with Pandas
 
 
-Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. Get rolling with matplotlib!  
+Matplotlib is a plotting library for the Python programming language and its numerical mathematical extensions like NumPy. Get rolling with matplotlib!  
 
 ## Why complete this?
-Data visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns.
+Data visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to view analytical graphics, presented visually, so that they can grasp difficult concepts or identify new patterns.
 
 Why is it important?
 * Patterns emerge quickly
