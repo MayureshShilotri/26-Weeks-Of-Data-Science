@@ -5,7 +5,7 @@
 <br/><br/>
 
 
-# Time Serie Part 2
+# Time Series Part 2
 
 
 
