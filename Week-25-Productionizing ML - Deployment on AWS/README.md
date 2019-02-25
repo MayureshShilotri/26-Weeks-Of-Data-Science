@@ -1,4 +1,8 @@
-![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
+<p align="center">
+  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20180406174744/content/common/images/26-weeks-of-data-science-banner.jpg" width="700" title="26-weeks-of-data-science">
+</p>
+
+<br/><br/>
 
 # Model Deployment
 
@@ -11,16 +15,9 @@ Most of the times, the real use of our Machine Learning model lies at the heart 
 For example, majority of ML folks use R / Python for their experiments. But consumer of those ML models would be software engineers who use a completely different stack.
 
 
-## What we have learnt so far..
-
-- Statistics 
-- Building Model
-
 ## What you will learn solving this ?
 
 You will learn to deploy your ML model to production. Hosting it to cloud, where other user can use your model for production.
-
-
 
 Seems like you are all fired up to put a test to your knowledge.
 
