@@ -1,0 +1,6 @@
+pip install numpy
+pip install scipy
+pip install matplotlib
+pip install seaborn
+pip install pandas
+pip install statsmodel

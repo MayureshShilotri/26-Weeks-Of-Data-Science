@@ -1,0 +1,103 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"College enrolments, by registration status, program level, Classification of Instructional Programs, Primary Grouping (CIP_PG) and sex",37100074,477-0015,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710007401","1;2;3;4;5;6;7;8;10;11;12;13;18;19","ARCHIVED -  a cube publicly available but no longer being updated",Annual,1992-01-01,2008-01-01,5
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+1,Geography,4;5;6;7;8;10;11;12;13;18,
+2,"Registration status",,
+3,"Program level",14,
+4,"Classification of Instructional Programs, Primary Grouping (CIP_PG)",9;16,
+5,Sex,17,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+1,Canada,,1,,,,
+1,"Newfoundland and Labrador",,2,1,,,
+1,"Prince Edward Island",,3,1,,11,
+1,"Nova Scotia",,4,1,,5;6;11;18,
+1,"New Brunswick",,5,1,,6;11,
+1,Quebec,,6,1,,4;5;6;10;11;13,
+1,Ontario,,7,1,,6;7;8;11;12;13;18,
+1,Manitoba,,8,1,,18,
+1,Saskatchewan,,9,1,,10;11;18,
+1,Alberta,,10,1,,4;11;12;18,
+1,"British Columbia",,11,1,,4;5;8;10;12,
+1,Yukon,,12,1,,,
+1,"Northwest Territories including Nunavut",,13,1,t,,
+1,"Northwest Territories",,14,1,,,
+1,Nunavut,,15,1,,,
+2,"Total, registration status",,1,,,,
+2,"Full-time student",,2,1,,,
+2,"Part-time student",,3,1,,,
+3,"Total, program level",,1,,,,
+3,"College certificate or diploma and other college level",,2,1,,,
+3,"College postsecondary program",,3,2,,,
+3,"College post-diploma program",,4,2,,,
+3,"Collaborative degree program",,5,2,,,
+3,"College university transfer program",,6,2,,,
+3,"Undergraduate level",,7,1,,,
+3,"Graduate level",,8,1,,,
+3,"Other program level",,9,1,,15,
+3,"College preliminary year",,10,2,,,
+4,"Total, instructional programs",,1,,,,
+4,"Personal improvement and leisure",00,2,1,,,
+4,Education,01,3,1,,,
+4,"Visual and performing arts and communications technologies",02,4,1,,,
+4,Humanities,03,5,1,,,
+4,"Social and behavioural sciences and law",04,6,1,,,
+4,"Business, management and public administration",05,7,1,,,
+4,"Physical and life sciences and technologies",06,8,1,,,
+4,"Mathematics, computer and information sciences",07,9,1,,,
+4,"Architecture, engineering and related technologies",08,10,1,,,
+4,"Agriculture, natural resources and conservation",09,11,1,,,
+4,"Health, parks, recreation and fitness",10,12,1,,,
+4,"Personal, protective and transportation services",11,13,1,,,
+4,"Other instructional programs",12,14,1,,,
+5,"Both sexes",,1,,,,
+5,Males,,2,1,,,
+5,Females,,3,1,,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published.",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+5017,"Postsecondary Student Information System"
+
+"Subject Code","Subject Name"
+37,"Education, training and learning"
+
+"Note ID",Note
+1,"CANSIM table 477-0006 included enrolment and graduate data for community colleges into one table. To improve clarity, CANSIM table 477-0015 has been created to hold data only for enrolments at community colleges. Data for graduates at community colleges previously available in CANSIM table 477-0006, is now available in CANSIM table 477-0016."
+2,"All counts are randomly rounded to a multiple of 3 using the following procedure: counts which are already a multiple of 3 are not adjusted; counts one greater than a multiple of 3 are adjusted to the next lowest multiple of 3 with a probability of two-thirds, and to the next highest multiple of 3 with a probability of one-third. The probabilities are reversed for counts that are one less than a multiple of 3."
+3,"The data are subject to revision. Enrolments have been revised for years 1999/2000 to 2006/2007."
+4,"The count represents the number of students who were enrolled in courses on October 31st, and thus presents a snapshot of enrolments on that day. Compared to data reported in the Community College Student Information System (CCSIS), the institutions who reported data in a Postsecondary Student Information System (PSIS) format are asked to include students enrolled in non-programs, as well as undergraduate and graduate enrolments. The result is that any true year to year growth since 2000/2001 would be confounded with any increase due to changes in reporting. Particular attention should be made for the move from CCSIS to PSIS reporting for all Quebec and British Columbia from 2000/2001 and for Alberta from 2004/2005."
+5,"The count excludes students enrolled in programs related to pre-employment, apprenticeship, basic training or skills upgrading, second language training, job readiness or orientation programs. Starting with year 2000/2001, enrolments from private non-subsidized institutions that were part of the survey are no longer included. These are: Institute for Human Resources Education (Nova Scotia); several colleges in Quebec; and Columbia College (British Columbia)."
+6,"Data for Quebec colleges for year 2006/2007 are provisory. Data for the following colleges are revised : in Nova Scotia, for years 1999/2000 and 2000/2001: University College of Cape Breton - Technology Campus; in New Brunswick, for year 2006/2007 : New Brunswick Community College; in Ontario, for years 2003/2004 to 2006/2007: Collège Boréal; for years 2005/2006 and 2006/2007 : Sault CAAT and Fleming College."
+7,"Data for Northern College of Applied Arts and Technology (Ontario) for years 2000/2001 to 2006/2007 are now available."
+8,"The following institutions do not have their data included in the released data. For years 2000/2001 to 2008/2009: Justice Institute of British Columbia (British Columbia); for year 2001/2002: Ontario Schools of Radiation Therapy (Ontario)."
+9,"Data on program levels are coded using the Postsecondary Student Information System (PSIS) classification. Before PSIS was implemented, the Community College Student Information System (CCSIS) classification for the coding of college level fields of study was used. Data on fields of study are coded according to the new Classification of Instructional Program (CIP). Concordance tables between the two systems are available on the PSIS website (Data Users item). For Quebec institutions, the CIP codes assigned to programs are under review."
+10,"The following institutions were added to the survey frame since the 1999/2000 universe. For year 2000/2001: McDonald Campus, University McGill (Quebec); Collège dans la cité de la villa Sainte-Marcelline (Quebec); Collège Mother House (Quebec); and Cégep régional de Lanaudière à Terrebonne (Quebec); for year 2005/2006: École de sténographie judiciaire (Quebec); Regional Colleges (Saskatchewan); and Okanagan College (the college provides the college activities of the Okanagan University College, British Columbia); for year 2008/2009 : Great Plains Regional College (Saskatchewan)."
+11,"The following institutions were amalgamated with other institutions since 1999/2000. For year 2000/2001: Queen Elizabeth Hospital School of Radiography (University of Prince Edward Island, Prince Edward Island); Cape Breton University,Technology Campus (University of Cape Breton, Nova Scotia); and Queen Elizabeth II, Medical Schools (Dalhousie University, Nova Scotia); for year 2001/2002: Saint John School of Radiation Therapy (University of New Brunswick, New Brunswick); and Eastern Ontario School of X-ray (Queen's University, Ontario); for year 2002/2003: Schools of Radiation Therapy (The Michener Institute for Applied Health Sciences, Ontario); for year 2004/2005: Collège de l'Acadie (Université Sainte-Anne, New Brunswick) and Fairview College (Northern Alberta Institute of Technology, Alberta); for year 2005/2006: Okanagan University College (the undergraduate and graduate activities are reported with the Okanagan campus, University of British Columbia, British Columbia); for year 2008/2009, Cypress Hills Regional College and Prairie West Regional College (Great Plains College, Saskatchewan). For the year 1999/2000 only, the Multicollege de l'ouest du Québec (Quebec) was reporting enrolments for students enrolled in colleges located outside the west Québec region."
+12,"The following institutions changed their institutional type from college to university since 1999/2000; their enrolments are thus no longer reported with the college data. Starting in 2002/2003: Ontario College of Art and Design (Ontario); starting in 2004/2005: Alberta College of Art and Design (Alberta); starting in 2005/2006: University College of the Cariboo (British Columbia) and Open Learning Agency (British Columbia); starting in 2008/2009: Capilano College, Malaspina University College, Emily Carr Institute of Art and Design, Kwantlen University College, University College of the Fraser Valley (formerly colleges, institutes or university colleges) were granted university status as of September 1, 2008."
+13,"The following institutions closed since 1999/2000. In year 2001/2002: Collège des Grands Lacs (Ontario); for year 2002/2003: Collège de Lévis (Quebec); in year 2004/2005: Collège Français (Quebec)."
+14,"Updates were made to program levels: for years 2000/2001 to 2006/2007; Mount Royal College (Alberta) and Vancouver Community College (British Columbia); for years 2003/2004 to 2006/2007: Seneca College (Ontario); for years 2005/2006 and 2006/2007: Okanagan College (British Columbia); for year 2006/2007: Saskatchewan Institute of Applied Science and Technology (Saskatchewan), Douglas College and Northern Lights College (British Columbia)."
+15,"Other program level includes program levels not applicable or non-program (taking non-credit courses or taking courses without seeking a credential)."
+16,"Updates to the field of studies were made for years 1999/2000 to 2006/2007."
+17,"Values may not add up due to the exclusion of the ""Sex unknown"" category from the table."
+18,"Enrolments from institutions that are not funded by provincial ministries of education are no longer included in the survey. These are, starting in 2006/2007: School of Radiation Therapy at Cancer Care Manitoba and Health Sciences Centre, School of Cytotechnology (Manitoba); School of Radiation Therapy, Allan Blair Cancer Centre and Radiation Therapy Program, Saskatoon Cancer Centre (Saskatchewan); starting in 2008/2009 the Canadian Coast Guard College (Nova Scotia); Niagara Parks Commission School of Horticulture, Michener Institute and Canadian Memorial Chiropractic College (Ontario); Cross Cancer Institute, School of Radiation Therapy and Tom Baker Cancer Centre, School of Radiation Therapy (Alberta)."
+19,"For the 2009 release, the postsecondary student information system underwent a major change. Due to the extent of the changes made it is not possible to continue with this series. Therefore, table 477-0015 has been terminated and is replaced by table 477-0019."
+
+"Correction ID","Correction Date","Correction Note"
+
